@@ -33,7 +33,6 @@ names(havaK)[-1] <- unlist(havaK[1,2:9 ])
 havaK <- havaK[-1, ] # İlk satırı sildik
 
 havaK[1:10,]
-#summary(havaK)
 ```
 
 
